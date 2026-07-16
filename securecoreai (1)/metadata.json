@@ -1,0 +1,6 @@
+{
+  "name": "SecureCoreAI",
+  "description": "AI-Powered Privileged Access Misuse & Insider Threat Detection Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
