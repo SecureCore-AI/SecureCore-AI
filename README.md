@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Privileged Access Misuse & Insider Threat Detection — Backend MVP
 
 FastAPI backend implementing the core of the problem statement:
@@ -77,3 +78,7 @@ app/
     privileged_router.py       RBAC + risk gated privileged actions
     audit_router.py            alerts, audit log review, integrity check
 ```
+=======
+# SecureCore-AI
+SecureCore AI is an AI-powered platform that detects privileged access misuse and insider threats using behavioral analytics and machine learning. It monitors user activities, identifies anomalies, assigns risk scores, generates real-time alerts, and enables automated responses to protect sensitive systems and data.
+>>>>>>> f4b6e6a4e8c0136577faa49a03b2d2b1777792df
